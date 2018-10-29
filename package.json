@@ -1,0 +1,13 @@
+{
+  "name": "signalr-vuejs--demo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinceumo/SignalR-Vuejs--Demo.git"
+  },
+  "author": "Vincent Humeau",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.4"
+  }
+}
